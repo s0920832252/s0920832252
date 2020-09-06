@@ -1,4 +1,4 @@
-![](https://github.com/s0920832252/s0920832252/blob/master/resource/giphy%20(3).gif)
+![i get gif image by the webste  https://giphy.com/](https://github.com/s0920832252/s0920832252/blob/master/resource/giphy%20(3).gif)
 
 ## 🔭 Goal of 2020
 1. Learn English
