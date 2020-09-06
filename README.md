@@ -1,4 +1,4 @@
-![](https://github.com/s0920832252/s0920832252/blob/master/giphy%20(2).gif)
+![](https://github.com/s0920832252/s0920832252/blob/master/resource/giphy%20(3).gif)
 
 ### Hi there 👋
 
