@@ -2,14 +2,14 @@
 
 ## 🔭 Goal of 2020
 1. Learn English
-  - Toeic Score up 700
+    - Toeic Score up 700
 2. Practice Progrma Skill
-  - Simple Game
-  - Desing Pattern
-  - Unit Test
-  - Asp.Net Core
-  - WPF
-  - Entity Framework core 
+    - Simple Game
+    - Desing Pattern
+    - Unit Test
+    - Asp.Net Core
+    - WPF
+    - Entity Framework core 
 
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
