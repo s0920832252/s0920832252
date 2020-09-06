@@ -1,3 +1,5 @@
+![](https://github.com/s0920832252/s0920832252/blob/master/giphy%20(2).gif)
+
 ### Hi there 👋
 
 <!--
